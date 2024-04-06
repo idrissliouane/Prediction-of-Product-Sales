@@ -17,6 +17,7 @@ Hyperparameter tuning was performed using gridsearch with cross-validation to op
 The best-performing model based on evaluation metrics was selected for final deployment.
 # Results
 ![heatmap](https://github.com/idrissliouane/Prediction-of-Product-Sales/assets/156426629/9a17fb5d-260c-4ebc-abcb-3e05e6189581)
+
 **Model**
 Model Evaluation Metrics
 Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared (R^2) were used as evaluation metrics to assess model performance.
